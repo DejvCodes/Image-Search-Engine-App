@@ -65,7 +65,7 @@ form button {
     border: 0;
     outline: 0;
     font-size: 18px;
-    margin: 30px auto 100px;
+    margin: 30px auto 50px;
     padding: 20px 40px;
     border-radius: 5px;
     cursor: pointer;
@@ -87,6 +87,15 @@ form button {
     height: 300px;
     object-fit: cover;
     border-radius: 5px;
+}
+/* ---------- Scroll bar ---------- */
+::-webkit-scrollbar {
+    width: 0.7rem;
+    background: #bbcafc;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 0.5rem;
+    background: #FF7300;
 }
 
 /* ---------- Responsive ---------- */
