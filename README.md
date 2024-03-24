@@ -13,4 +13,4 @@
 <a href="https://image-search-engine-dejvcodes.netlify.app/">Image Search Engine</a>
 
 ## License🔐
-[MIT License](LICENSE) 
+[MIT License](LICENSE)
